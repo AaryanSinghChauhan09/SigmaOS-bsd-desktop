@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-bsd-desktop"
-description = "BSD desktop environment and session integration"
+description = "SigmaOS component: SigmaOS-bsd-desktop"
 version = "0.1.0"
 tier = 4
 
